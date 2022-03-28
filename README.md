@@ -1,6 +1,5 @@
 <h1 align="center" >
-<br>
-    <img src="https://www.edx.org/images/logos/edx-logo-elm.svg" height="25%" width="25%">
+    <img src="https://www.edx.org/images/logos/edx-logo-elm.svg" height="10%" width="10%">
 </h1>
 
 # MoocWebApp
